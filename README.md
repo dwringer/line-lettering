@@ -1,3 +1,5 @@
 # line-lettering
 
-A loose emulation of the lettering style shown on page 17 of the book _Artyping_ from 1939 <https://archive.org/details/Artyping>,
+A loose emulation of the lettering style shown on page 17 of the book _Artyping_ from 1939 <https://archive.org/details/Artyping>.
+
+Under MIT License. (c) 2019 Darren W. Ringer
